@@ -94152,7 +94152,7 @@ f=A.aF(40,c9,a4,f,new A.aRD(),"",$.Ie,400)
 d=A.aF(40,c9,a4,A.b([new A.m("","",n),new A.m(c7,c7,n),new A.m(c8,c8,n),new A.m(d0,d0,n)],m),new A.aRE(a3),"",$.Ag,80)
 c=$.eY
 b=A.a6(new A.aRF(a3),40,c,a4,!1,!1,a4,100,new A.aRG(),"","",$.Aj,400)
-if($.he==="Text"){c=A.b([A.aF(40,c9,!1,A.b([new A.m("","",n),new A.m(c7,c7,n),new A.m("AQL",c8,n),new A.m("%","Percen",n)],m),new A.aRH(a3),"",$.ql,80)],d3)
+if($.he==="Text"){c=A.b([A.aF(40,c9,!1,A.b([new A.m("","",n),new A.m(c7,c7,n),new A.m("AQL",c8,n),new A.m("10%","Percen",n)],m),new A.aRH(a3),"",$.ql,80)],d3)
 a=$.ql
 a0=$.eY
 if(a==="YES")B.b.G(c,A.b([A.a6(new A.aRJ(a3),40,a0,a4,!1,!1,a4,100,new A.aRK(),"%AQL","",$.Af,400)],d3))
@@ -94563,7 +94563,7 @@ f=A.aF(40,d4,a7,f,new A.aOD(),"",$.Il,400)
 d=A.aF(40,d4,a7,A.b([new A.m("","",n),new A.m(d2,d2,n),new A.m(d3,d3,n),new A.m(d5,d5,n)],m),new A.aOE(a6),"",$.Ap,80)
 c=$.eZ
 b=A.a6(new A.aOF(a6),40,c,a7,!1,!1,a7,100,new A.aOG(),"","",$.As,400)
-if($.hL==="Text"){c=A.b([A.aF(40,d4,!1,A.b([new A.m("","",n),new A.m(d2,d2,n),new A.m("AQL",d3,n),new A.m("%","Percen",n)],m),new A.aOH(a6),"",$.qo,80)],d8)
+if($.hL==="Text"){c=A.b([A.aF(40,d4,!1,A.b([new A.m("","",n),new A.m(d2,d2,n),new A.m("AQL",d3,n),new A.m("10%","Percen",n)],m),new A.aOH(a6),"",$.qo,80)],d8)
 a=$.qo
 a0=$.eZ
 if(a==="YES")B.b.G(c,A.b([A.a6(new A.aOJ(a6),40,a0,a7,!1,!1,a7,100,new A.aOK(),"%AQL","",$.Ao,400)],d8))
