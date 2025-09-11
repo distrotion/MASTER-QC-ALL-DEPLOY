@@ -98077,8 +98077,8 @@ $S:1}
 A.H3.prototype={
 Z(){return new A.a6B()}}
 A.a6B.prototype={
-D(e9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7=this,a8=null,a9="Constant",b0="CORStype",b1="FORMULA",b2="SC MARK",b3="SCMARKtype",b4="DOCUMENT",b5="METHOD",b6="IMGreaddata",b7="IMGno",b8="LOAD",b9="Plot Position",c0="Control Position",c1="SPECIFICATION",c2="CALCULATE",c3="UNIT",c4="CONVERSE",c5="CONVERSEDATA",c6="POSITION",c7="FREQUENCY",c8="REMARK",c9="SHOW REPORT",d0="SUMdata",d1="SRAWDATA",d2="SPICDATA",d3="ACTION",d4="-",d5="YES",d6="assets/icons/icon-down_4@3x.png",d7="cylinder",d8="NO",d9=a7.a.c,e0=A.fV(B.p,1),e1=t.p,e2=A.bt(A.b([new A.aa(B.kc,A.ba("FINAL PATTERN",a8,a8,a8,a8,a8,a8),a8),new A.xL(a8),A.aQ(!1,a8,!0,new A.aa(B.k9,A.a0(a8,A.ah(A.ba("NEW",a8,a8,a8,A.fu(a8,a8,B.m,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),a8,a8),a8,a8),B.f,B.u,a8,a8,a8,40,a8,a8,a8,a8,100),a8),a8,!0,a8,a8,a8,a8,a8,a8,a8,new A.aSm(a7),a8,a8,a8)],e1),B.h,B.j,B.i),e3=$.brb(),e4=$.al,e5=e4!=="HES-ISN",e6=!e5||e4==="BP12-GAS"||e4==="GW-GAS"||e4==="HES-GAS",e7=!e5||e4==="BP12-GAS"||e4==="GW-GAS"||e4==="HES-GAS",e8=!e5||e4==="BP12-GAS"||e4==="GW-GAS"||e4==="HES-GAS"
-e4=A.b([A.a_(A.J7(d3,a8,B.T,c2,c4,c5,b0,b4,a8,a8,b1,c7,b9,c0,b7,b6,"ITEM",a9,b8,b5,"PCS",c6,c8,a8,b2,b3,c1,d2,d1,d0,c9,!e5||e4==="BP12-GAS"||e4==="GW-GAS"||e4==="HES-GAS",e6,!1,e8,e7,c3,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,!1,"seq"),40,a8)],e1)
+D(e9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7=this,a8=null,a9="Constant",b0="CORStype",b1="FORMULA",b2="SC MARK",b3="SCMARKtype",b4="DOCUMENT",b5="METHOD",b6="IMGreaddata",b7="IMGno",b8="LOAD",b9="Plot Position",c0="Control Position",c1="SPECIFICATION",c2="CALCULATE",c3="UNIT",c4="CONVERSE",c5="CONVERSEDATA",c6="POSITION",c7="FREQUENCY",c8="REMARK",c9="SHOW REPORT",d0="SUMdata",d1="SRAWDATA",d2="SPICDATA",d3="ACTION",d4="-",d5="YES",d6="assets/icons/icon-down_4@3x.png",d7="cylinder",d8="NO",d9=a7.a.c,e0=A.fV(B.p,1),e1=t.p,e2=A.bt(A.b([new A.aa(B.kc,A.ba("FINAL PATTERN",a8,a8,a8,a8,a8,a8),a8),new A.xL(a8),A.aQ(!1,a8,!0,new A.aa(B.k9,A.a0(a8,A.ah(A.ba("NEW",a8,a8,a8,A.fu(a8,a8,B.m,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),a8,a8),a8,a8),B.f,B.u,a8,a8,a8,80,a8,a8,a8,a8,100),a8),a8,!0,a8,a8,a8,a8,a8,a8,a8,new A.aSm(a7),a8,a8,a8)],e1),B.h,B.j,B.i),e3=$.brb(),e4=$.al,e5=e4!=="HES-ISN",e6=!e5||e4==="BP12-GAS"||e4==="GW-GAS"||e4==="HES-GAS",e7=!e5||e4==="BP12-GAS"||e4==="GW-GAS"||e4==="HES-GAS",e8=!e5||e4==="BP12-GAS"||e4==="GW-GAS"||e4==="HES-GAS"
+e4=A.b([A.a_(A.J7(d3,a8,B.T,c2,c4,c5,b0,b4,a8,a8,b1,c7,b9,c0,b7,b6,"ITEM",a9,b8,b5,"PCS",c6,c8,a8,b2,b3,c1,d2,d1,d0,c9,!e5||e4==="BP12-GAS"||e4==="GW-GAS"||e4==="HES-GAS",e6,!1,e8,e7,c3,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,!1,"seq"),80,a8)],e1)
 for(s=0;e5=d9.y,s<e5.length;++s){e6=$.al
 e7=e6!=="HES-ISN"
 e8=!e7||e6==="BP12-GAS"||e6==="GW-GAS"||e6==="HES-GAS"
@@ -98093,14 +98093,14 @@ else o=p==="2"?"Kvar":d4
 p=e5.ap
 n=p!==""?d4:""
 m=e5.y1==="YES"?"AQL("+e5.y2+"%)":e5.k1
-B.b.E(e4,A.b([A.a0(a8,A.J7(d3,a8,e7,d4,e5.go,e5.RG,e5.p1,e5.x,new A.aSn(d9,s,e9),new A.aSo(a7,d9,s),d4,e5.k2,d4,d4,d4,d4,e5.e,o+n+p,e5.p2,e5.Q,m,e5.id,e5.ok,a8,e5.y,d4,e5.dy,e5.xr,e5.x2,e5.rx,e5.p3,e6,e8,!1,q,r,e5.fx,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,!0,e5.a),B.f,a8,a8,a8,a8,40,a8,a8,a8,a8,a8)],e1))}if($.fa){e5=$.bre()
-e6=A.aQ(!1,a8,!0,A.a0(a8,A.ah(A.ba("CLEAR",a8,a8,a8,A.fu(a8,a8,B.m,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),a8,a8),a8,a8),B.f,B.dy,a8,a8,a8,40,a8,a8,a8,a8,a8),a8,!0,a8,a8,a8,a8,a8,a8,new A.aSz(a7),a8,a8,a8,a8)
+B.b.E(e4,A.b([A.a0(a8,A.J7(d3,a8,e7,d4,e5.go,e5.RG,e5.p1,e5.x,new A.aSn(d9,s,e9),new A.aSo(a7,d9,s),d4,e5.k2,d4,d4,d4,d4,e5.e,o+n+p,e5.p2,e5.Q,m,e5.id,e5.ok,a8,e5.y,d4,e5.dy,e5.xr,e5.x2,e5.rx,e5.p3,e6,e8,!1,q,r,e5.fx,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,!0,e5.a),B.f,a8,a8,a8,a8,80,a8,a8,a8,a8,a8)],e1))}if($.fa){e5=$.bre()
+e6=A.aQ(!1,a8,!0,A.a0(a8,A.ah(A.ba("CLEAR",a8,a8,a8,A.fu(a8,a8,B.m,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),a8,a8),a8,a8),B.f,B.dy,a8,a8,a8,80,a8,a8,a8,a8,a8),a8,!0,a8,a8,a8,a8,a8,a8,new A.aSz(a7),a8,a8,a8,a8)
 e7=$.al
 e8=e7!=="HES-ISN"
 r=!e8||e7==="BP12-GAS"||e7==="GW-GAS"||e7==="HES-GAS"
 q=!e8||e7==="BP12-GAS"||e7==="GW-GAS"||e7==="HES-GAS"
 p=!e8||e7==="BP12-GAS"||e7==="GW-GAS"||e7==="HES-GAS"
-r=A.a_(A.J7(d3,a8,B.T,c2,c4,c5,b0,b4,a8,a8,b1,c7,b9,c0,b7,b6,"ITEM",a9,b8,b5,"PCS",c6,c8,a8,b2,b3,c1,"SPICdata",d1,d0,c9,!e8||e7==="BP12-GAS"||e7==="GW-GAS"||e7==="HES-GAS",r,!1,p,q,c3,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,!1,"seq"),40,a8)
+r=A.a_(A.J7(d3,a8,B.T,c2,c4,c5,b0,b4,a8,a8,b1,c7,b9,c0,b7,b6,"ITEM",a9,b8,b5,"PCS",c6,c8,a8,b2,b3,c1,"SPICdata",d1,d0,c9,!e8||e7==="BP12-GAS"||e7==="GW-GAS"||e7==="HES-GAS",r,!1,p,q,c3,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,!1,"seq"),60,a8)
 q=!e8||e7==="BP12-GAS"||e7==="GW-GAS"||e7==="HES-GAS"
 p=!e8||e7==="BP12-GAS"||e7==="GW-GAS"||e7==="HES-GAS"
 n=!e8||e7==="BP12-GAS"||e7==="GW-GAS"||e7==="HES-GAS"
